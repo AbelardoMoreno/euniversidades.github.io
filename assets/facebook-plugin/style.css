@@ -1,3 +1,9 @@
+.mbr-section.mbr-section__comments{
+    position: relative;
+}
+.mbr-section__comments{
+    background-size: cover;
+}
 .addons-container {
   position: relative;
   margin-left: auto;
@@ -54,11 +60,4 @@
 .addons-row{
     display: flex;
     justify-content:center;
-}.engine {
-	position: absolute;
-	text-indent: -2400px;
-	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
 }
